@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Test suits for places
+Test suits for places class
 """
 
 import os

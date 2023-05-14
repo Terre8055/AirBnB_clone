@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains the entry point of the command interpreter
+Defines a custom cmd interpreter
 """
 
 import cmd

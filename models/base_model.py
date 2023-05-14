@@ -7,8 +7,9 @@ from uuid import uuid4
 from datetime import datetime
 import models
 
+
 class BaseModel:
-    """Custom base for all the classes in the AirBnb console project
+    """Custom base model for all instances of BaseModel
 
     Arttributes:
         id(str): handles unique user identity

@@ -6,7 +6,7 @@ from models.base_model import BaseModel
 
 
 class Review(BaseModel):
-    """Represent a review
+    """Define review model subclass
 
     Attributes:
         place_id (str): The Place id

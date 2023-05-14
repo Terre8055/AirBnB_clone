@@ -6,7 +6,7 @@ from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Represent a city and define fields
+    """Represent a city model subclass
 
     Attributes:
         state_id (str): The state id.

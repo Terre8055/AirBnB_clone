@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Test suits for amenities
+Test suits for emenities class
 """
 import os
 import models

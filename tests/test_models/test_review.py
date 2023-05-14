@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Test suits for amenities
+Test suits for review class
 """
 import os
 import models
@@ -11,7 +11,7 @@ from models.base_model import BaseModel
 
 class TestReview(unittest.TestCase):
     """
-    Tests for amenities
+    Tests for review
     """
 
     def test_name(self):

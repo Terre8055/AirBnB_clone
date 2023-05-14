@@ -6,7 +6,7 @@ from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """Represent a state
+    """Define state model subclass
 
     Attributes:
         name (str): The name of the state
